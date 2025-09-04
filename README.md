@@ -15,7 +15,7 @@
 ### 🛠️ Key Projects
 - 🔎 [`SQLi-Tester`](https://github.com/AtharvaDendge/Cyber-Scripts/tree/main/SQLi) — Advanced SQL injection payload tester  
 - 🧰 [`Advanced-Custom-Wordlist-Generator`](https://github.com/AtharvaDendge/Advanced-Custom-Wordlist-Generator) — Custom password list generator  
-- 🔐 [`PDF-Password-Tool`](https://github.com/AtharvaDendge/PDF-Password-Tool) — Lock and unlock PDF files  
+- 🔐 [`PDF-Password-Tool`](https://github.com/AtharvaDendge/PDF-LOCKER-Tool/tree/main) — Lock and unlock PDF files  
 - 🧠 [`CTF-Writeups`](https://github.com/AtharvaDendge/CTF-Writeups) — TryHackMe / HackTheBox writeups  
 - 📚 [`Pentesting-Cheatsheets`](https://github.com/AtharvaDendge/Pentesting-Cheatsheets) — Notes for enumeration, privesc, AD attacks
 
