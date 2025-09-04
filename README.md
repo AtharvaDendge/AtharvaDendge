@@ -22,7 +22,7 @@
 ---
 
 ### 🚀 Goals
-- Complete CEH, eJPT, PNPT, and OSCP  
+- Complete PNPT, CRTP and OSCP  
 - Build more automation tools & CTF writeups  
 - Contribute to open-source security projects  
 - Land a Junior Red Team/Pentester role
