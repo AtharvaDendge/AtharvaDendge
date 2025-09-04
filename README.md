@@ -17,7 +17,7 @@
 - 🧰 [`Advanced-Custom-Wordlist-Generator`](https://github.com/AtharvaDendge/Advanced-Custom-Wordlist-Generator) — Custom password list generator  
 - 🔐 [`PDF-Password-Tool`](https://github.com/AtharvaDendge/PDF-LOCKER-Tool/tree/main) — Lock and unlock PDF files  
 - 🧠 [`CTF-Writeups`](https://github.com/AtharvaDendge/CTF-Writeups) — TryHackMe / HackTheBox writeups  
-- 📚 [`Pentesting-Cheatsheets`](https://github.com/AtharvaDendge/Pentesting-Cheatsheets) — Notes for enumeration, privesc, AD attacks
+- 📚 [`Password-Strength-Checker`](https://github.com/AtharvaDendge/Password-Strength-Checker/tree/main) — GUI tool to evaluates password strength in real-time
 
 ---
 
