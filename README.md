@@ -29,16 +29,7 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvaDendge&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaDendge&layout=compact&theme=radical" width="330"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 - 💼 LinkedIn: [www.linkedin.com/in/atharva-balasaheb-dendge] 
-- 🌐 Portfolio: [Coming Soon]  
 
 > 🚨 *"Hack with purpose. Learn, break, fix, and grow."*
